@@ -1,0 +1,636 @@
+PLAIN	W	<self>
+ORDINAL	1082.	tysiąc osiemdziesiątym drugim
+PLAIN	roku	<self>
+PLAIN	księstwo	<self>
+PLAIN	zajęli	<self>
+PLAIN	książęta	<self>
+PUNCT	:	sil
+PLAIN	Wołodar	<self>
+PLAIN	Rościsławicz	<self>
+PLAIN	i	<self>
+PLAIN	Dawid	<self>
+PLAIN	Igorewicz	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Być	<self>
+PLAIN	może	<self>
+PLAIN	ceną	<self>
+PLAIN	za	<self>
+PLAIN	tą	<self>
+PLAIN	pomoc	<self>
+PLAIN	było	<self>
+PLAIN	zrzeczenie	<self>
+PLAIN	się	<self>
+PLAIN	praw	<self>
+PLAIN	do	<self>
+PLAIN	Tmutarakani	<self>
+PUNCT	,	sil
+PLAIN	bo	<self>
+PLAIN	po	<self>
+PLAIN	tej	<self>
+PLAIN	dacie	<self>
+PLAIN	tytuł	<self>
+PLAIN	księcia	<self>
+PLAIN	tmutarakańskiego	<self>
+PLAIN	nie	<self>
+PLAIN	był	<self>
+PLAIN	już	<self>
+PLAIN	nigdy	<self>
+PLAIN	na	<self>
+PLAIN	Rusi	<self>
+PLAIN	w	<self>
+PLAIN	użyciu	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	W	<self>
+PLAIN	tym	<self>
+PLAIN	czasie	<self>
+PLAIN	w	<self>
+PLAIN	Wołowie	<self>
+PLAIN	ostatnie	<self>
+PLAIN	lata	<self>
+PLAIN	życia	<self>
+PLAIN	pod	<self>
+PLAIN	opieką	<self>
+PLAIN	swoich	<self>
+PLAIN	zięciów	<self>
+PUNCT	(	sil
+PLAIN	ok	<self>
+PUNCT	.	sil
+CARDINAL	1497	tysiąc czterysta dziewięćdziesiąt siedem
+PLAIN	-	do
+CARDINAL	1504	tysiąc pięćset cztery
+PUNCT	)	sil
+PLAIN	spędził	<self>
+PLAIN	Jan	<self>
+ORDINAL	II	drugi
+PLAIN	Szalony	<self>
+PUNCT	(	sil
+CARDINAL	1435	tysiąc czterysta trzydzieści pięć
+PLAIN	-	do
+CARDINAL	1504	tysiąc pięćset cztery
+PUNCT	)	sil
+VERBATIM	-	sil
+PLAIN	książę	<self>
+PLAIN	żagańsko	<self>
+VERBATIM	-	sil
+PLAIN	głogowski	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PUNCT	"	sil
+PLAIN	Książka	<self>
+PUNCT	:	sil
+PLAIN	Księstwa	<self>
+PLAIN	Oświęcimskie	<self>
+PLAIN	i	<self>
+PLAIN	Zatorskie	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Powstało	<self>
+PLAIN	w	<self>
+PLAIN	ten	<self>
+PLAIN	sposób	<self>
+PLAIN	samodzielne	<self>
+PLAIN	piastowskie	<self>
+PLAIN	księstwo	<self>
+PLAIN	ziębickie	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Został	<self>
+PLAIN	nim	<self>
+PLAIN	jego	<self>
+PLAIN	młodszy	<self>
+PLAIN	syn	<self>
+PUNCT	,	sil
+PLAIN	Andrzej	<self>
+PLAIN	Starszy	<self>
+PLAIN	Goriaj	<self>
+PUNCT	,	sil
+PLAIN	brat	<self>
+PLAIN	Iwana	<self>
+ORDINAL	III	trzeciego
+PLAIN	Srogiego	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Prace	<self>
+PLAIN	z	<self>
+PLAIN	Historii	<self>
+PLAIN	Sztuki	<self>
+PUNCT	"	sil
+PUNCT	,	sil
+PLAIN	Z	<self>
+PUNCT	.	sil
+DECIMAL	1	jeden
+PUNCT	,	sil
+PLAIN	Kraków	<self>
+ORDINAL	1962.	tysiąc dziewięćset sześćdziesiąty drugi
+<eos>	<eos>
+PLAIN	Przerost	<self>
+PLAIN	warg	<self>
+PLAIN	sromowych	<self>
+PLAIN	mniejszych	<self>
+PUNCT	,	sil
+PLAIN	niekiedy	<self>
+PLAIN	również	<self>
+PLAIN	fartuszek	<self>
+PLAIN	hotentocki	<self>
+PUNCT	(	sil
+PLAIN	angielski	<self>
+PLAIN	winged	<self>
+PLAIN	labia	<self>
+PUNCT	,	sil
+PLAIN	hottentot	<self>
+PLAIN	apron	<self>
+PUNCT	)	sil
+VERBATIM	-	sil
+PLAIN	bardzo	<self>
+PLAIN	duże	<self>
+PLAIN	wargi	<self>
+PLAIN	sromowe	<self>
+PLAIN	mniejsze	<self>
+PUNCT	,	sil
+PLAIN	znacznie	<self>
+PLAIN	wystające	<self>
+PLAIN	spomiędzy	<self>
+PLAIN	warg	<self>
+PLAIN	sromowych	<self>
+PLAIN	większych	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	W	<self>
+DATE	grudniu 2014	grudniu dwa tysiące czternastego roku
+PLAIN	zadebiutowała	<self>
+PLAIN	w	<self>
+PLAIN	Pucharze	<self>
+PLAIN	Kontynentalnym	<self>
+PUNCT	,	sil
+PLAIN	zajmując	<self>
+PLAIN	w	<self>
+PLAIN	Notodden	<self>
+ORDINAL	29.	dwudziestym dziewiątym
+PLAIN	i	<self>
+ORDINAL	37.	trzydziesta siódma
+PLAIN	pozycję	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Od	<self>
+PLAIN	wielu	<self>
+PLAIN	lat	<self>
+PUNCT	,	sil
+PLAIN	z	<self>
+PLAIN	pokolenia	<self>
+PLAIN	na	<self>
+PLAIN	pokolenie	<self>
+PLAIN	mieszkańcy	<self>
+PLAIN	Radwanowic	<self>
+PLAIN	przekazują	<self>
+PLAIN	sobie	<self>
+PLAIN	legendę	<self>
+PLAIN	i	<self>
+PLAIN	powstaniu	<self>
+PLAIN	wsi	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Klęska	<self>
+PLAIN	powstania	<self>
+PLAIN	malajskiego	<self>
+PLAIN	była	<self>
+PLAIN	też	<self>
+PLAIN	efektem	<self>
+PLAIN	braku	<self>
+PLAIN	wsparcia	<self>
+PLAIN	dla	<self>
+PLAIN	powstańców	<self>
+PLAIN	ze	<self>
+PLAIN	strony	<self>
+PLAIN	zagranicy	<self>
+PLAIN	w	<self>
+PLAIN	tym	<self>
+PLAIN	ze	<self>
+PLAIN	strony	<self>
+LETTERS	ZSRR	z s r r
+PUNCT	,	sil
+PLAIN	które	<self>
+PLAIN	przekazały	<self>
+PLAIN	powstańcom	<self>
+PLAIN	jedynie	<self>
+PLAIN	nieliczną	<self>
+PLAIN	pomoc	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Miasto	<self>
+PLAIN	zamieszkuje	<self>
+MEASURE	98,77%	dziewięćdziesiąt osiem i siedemdziesiąt siedem setnych procent
+PLAIN	ludności	<self>
+PLAIN	białej	<self>
+PUNCT	,	sil
+MEASURE	0,04%	zero i cztery setne procent
+PLAIN	Afroamerykanów	<self>
+PUNCT	,	sil
+MEASURE	0,23%	zero i dwadzieścia trzy setne procent
+PLAIN	rdzennych	<self>
+PLAIN	Amerykanów	<self>
+PUNCT	,	sil
+MEASURE	0,31%	zero i trzydzieści jeden setnych procent
+PLAIN	Azjatów	<self>
+PUNCT	,	sil
+MEASURE	0,08%	zero i osiem setnych procent
+PLAIN	mieszkańców	<self>
+PLAIN	Pacyfiku	<self>
+PUNCT	,	sil
+MEASURE	0,19%	zero i dziewiętnaście setnych procent
+PLAIN	ludności	<self>
+PLAIN	innej	<self>
+PLAIN	rasy	<self>
+PUNCT	,	sil
+MEASURE	0,38%	zero i trzydzieści osiem setnych procent
+PLAIN	ludności	<self>
+PLAIN	wywodzacej	<self>
+PLAIN	się	<self>
+PLAIN	z	<self>
+PLAIN	dwóch	<self>
+PLAIN	lub	<self>
+PLAIN	więcej	<self>
+PLAIN	ras	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Metodą	<self>
+PLAIN	z	<self>
+PLAIN	wyboru	<self>
+PLAIN	w	<self>
+PLAIN	diagnostyce	<self>
+PLAIN	przerostowego	<self>
+PLAIN	zwężenia	<self>
+PLAIN	odźwiernika	<self>
+PLAIN	jest	<self>
+LETTERS	USG	u s g
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Niektórzy	<self>
+PLAIN	historycy	<self>
+PLAIN	łączą	<self>
+PLAIN	powstanie	<self>
+PLAIN	wsi	<self>
+PLAIN	Radwanowice	<self>
+PLAIN	z	<self>
+PLAIN	nadaniem	<self>
+PLAIN	przez	<self>
+PLAIN	Bolesława	<self>
+PLAIN	Wstydliwego	<self>
+PLAIN	rycerzom	<self>
+PLAIN	z	<self>
+PLAIN	rodu	<self>
+PLAIN	Radwanitów	<self>
+PLAIN	części	<self>
+PLAIN	puszczy	<self>
+PLAIN	w	<self>
+PLAIN	południowych	<self>
+PLAIN	okolicach	<self>
+PLAIN	Krakowa	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rejestr	<self>
+PLAIN	TERYTNatura	<self>
+PLAIN	i	<self>
+PLAIN	kultura	<self>
+PLAIN	w	<self>
+PLAIN	krajobrazie	<self>
+PLAIN	Jury	<self>
+PUNCT	,	sil
+PLAIN	Osadnictwo	<self>
+PLAIN	i	<self>
+PLAIN	krajobraz	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Średni	<self>
+PLAIN	dochód	<self>
+PLAIN	dla	<self>
+PLAIN	gospodarstwa	<self>
+PLAIN	domowego	<self>
+PLAIN	wynosi	<self>
+MONEY	30 154 dolarów	trzydzieści tysięcy sto pięćdziesiąt cztery dolary
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	dla	<self>
+PLAIN	rodziny	<self>
+PLAIN	wynosi	<self>
+MONEY	37 368 dolarów	trzydzieści siedem tysięcy trzysta sześćdziesiąt osiem dolarów
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Ksienija	<self>
+PLAIN	Leonidowna	<self>
+PLAIN	Moskwina	<self>
+PUNCT	(	sil
+PLAIN	ros	<self>
+PUNCT	.	sil
+VERBATIM	К	sil
+VERBATIM	с	sil
+VERBATIM	е	sil
+VERBATIM	н	sil
+VERBATIM	и	sil
+VERBATIM	я	sil
+VERBATIM	Л	sil
+VERBATIM	е	sil
+VERBATIM	о	sil
+VERBATIM	н	sil
+VERBATIM	и	sil
+VERBATIM	д	sil
+VERBATIM	о	sil
+VERBATIM	в	sil
+VERBATIM	н	sil
+VERBATIM	а	sil
+VERBATIM	М	sil
+VERBATIM	о	sil
+VERBATIM	с	sil
+VERBATIM	к	sil
+VERBATIM	в	sil
+VERBATIM	и	sil
+VERBATIM	н	sil
+VERBATIM	а	sil
+PUNCT	;	sil
+PLAIN	urodzony	<self>
+DATE	29 maja 1989	dwudziestego dziewiątego maja tysiąc dziewięćset osiemdziesiątego dziewiątego roku
+PUNCT	)	sil
+VERBATIM	-	sil
+PLAIN	rosyjska	<self>
+PLAIN	pływaczka	<self>
+PUNCT	,	sil
+PLAIN	mistrzyni	<self>
+PLAIN	Europy	<self>
+PUNCT	(	sil
+PLAIN	basen	<self>
+MEASURE	25 m	dwadzieścia pięć metrów
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Opinia	<self>
+PLAIN	publiczna	<self>
+PLAIN	w	<self>
+PLAIN	krajach	<self>
+PLAIN	uczestniczących	<self>
+PLAIN	w	<self>
+PLAIN	operacji	<self>
+LETTERS	ONZ	o n z
+PLAIN	była	<self>
+PLAIN	mocno	<self>
+PLAIN	podzielona	<self>
+PUNCT	,	sil
+PLAIN	szczególnie	<self>
+PLAIN	w	<self>
+PLAIN	Wielkiej	<self>
+PLAIN	Brytanii	<self>
+PLAIN	gdzie	<self>
+PLAIN	liczne	<self>
+PLAIN	grono	<self>
+PLAIN	ludzi	<self>
+PLAIN	sprzeciwiało	<self>
+PLAIN	się	<self>
+PLAIN	uczestnictwu	<self>
+PLAIN	w	<self>
+PLAIN	wojnie	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Tam	<self>
+PLAIN	są	<self>
+PLAIN	widoczne	<self>
+PLAIN	okiem	<self>
+PLAIN	nieuzbrojonym	<self>
+PUNCT	,	sil
+PLAIN	natomiast	<self>
+PLAIN	te	<self>
+PLAIN	widoczne	<self>
+PLAIN	dopiero	<self>
+PLAIN	pod	<self>
+PLAIN	mikroskopem	<self>
+PLAIN	nazywane	<self>
+PLAIN	są	<self>
+PLAIN	przerostami	<self>
+PLAIN	mikropegmatytowymi	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Warszawa	<self>
+PUNCT	:	sil
+PLAIN	Wydawnictwa	<self>
+PLAIN	Geologiczne	<self>
+PUNCT	,	sil
+ORDINAL	1973.	tysiąc dziewięćset siedemdziesiąty trzeci
+<eos>	<eos>
+PLAIN	Na	<self>
+PLAIN	wschód	<self>
+PLAIN	od	<self>
+PLAIN	głównego	<self>
+PLAIN	pomieszczenia	<self>
+PLAIN	archeolodzy	<self>
+PLAIN	odkryli	<self>
+PLAIN	jeszcze	<self>
+PLAIN	trzy	<self>
+PLAIN	mniejsze	<self>
+PLAIN	pomieszczenia	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Zapewne	<self>
+PLAIN	świątynia	<self>
+PLAIN	ta	<self>
+PLAIN	pochodzi	<self>
+PLAIN	z	<self>
+PLAIN	początków	<self>
+PLAIN	formowania	<self>
+PLAIN	się	<self>
+PLAIN	kultu	<self>
+PLAIN	zoroastryjskiego	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Kilka	<self>
+PLAIN	dni	<self>
+PLAIN	po	<self>
+PLAIN	zdobyciu	<self>
+PLAIN	niepodległości	<self>
+PLAIN	przez	<self>
+PLAIN	Kongo	<self>
+PUNCT	,	sil
+PLAIN	Lumumba	<self>
+PLAIN	podjął	<self>
+PLAIN	brzemienną	<self>
+PLAIN	w	<self>
+PLAIN	skutkach	<self>
+PLAIN	decyzję	<self>
+PUNCT	,	sil
+PLAIN	aby	<self>
+PLAIN	podnieść	<self>
+PLAIN	płace	<self>
+PLAIN	wszystkich	<self>
+PLAIN	pracowników	<self>
+PLAIN	rządowych	<self>
+PLAIN	z	<self>
+PLAIN	wyjątkiem	<self>
+PLAIN	wojska	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Jeżeli	<self>
+PLAIN	energia	<self>
+PLAIN	Fermiego	<self>
+PLAIN	mieści	<self>
+PLAIN	się	<self>
+PLAIN	w	<self>
+PLAIN	przerwie	<self>
+PLAIN	energetycznej	<self>
+PUNCT	,	sil
+PLAIN	to	<self>
+PLAIN	układ	<self>
+PLAIN	w	<self>
+PLAIN	odpowiednio	<self>
+PLAIN	niskiej	<self>
+PLAIN	temperaturze	<self>
+PLAIN	jest	<self>
+PLAIN	izolatorem	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rok	<self>
+PLAIN	później	<self>
+LETTERS	CIA	c_letter_en i_letter_en a_letter_en
+PLAIN	wsparło	<self>
+PLAIN	pucz	<self>
+PLAIN	wojskowy	<self>
+PLAIN	skierowany	<self>
+PLAIN	przeciwko	<self>
+PLAIN	lewicowemu	<self>
+PLAIN	prezydentowi	<self>
+PLAIN	Gwatemali	<self>
+PUNCT	,	sil
+PLAIN	Jacobo	<self>
+PLAIN	Arbenzowi	<self>
+PLAIN	Guzmanowi	<self>
+PLAIN	kończąc	<self>
+PLAIN	tym	<self>
+PLAIN	samym	<self>
+PLAIN	etap	<self>
+PLAIN	rewolucji	<self>
+PLAIN	gwatemalskiej	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Rady	<self>
+PLAIN	Wojenne	<self>
+PUNCT	(	sil
+LETTERS	RW	r w
+PUNCT	)	sil
+PLAIN	kolektywne	<self>
+PLAIN	organy	<self>
+PLAIN	dowodzenia	<self>
+PLAIN	wojskami	<self>
+PLAIN	w	<self>
+PLAIN	rodzajach	<self>
+PLAIN	sił	<self>
+PLAIN	zbrojnych	<self>
+LETTERS	ZSRR	z s r r
+PUNCT	,	sil
+PLAIN	okręgach	<self>
+PLAIN	wojskowych	<self>
+PUNCT	(	sil
+PLAIN	flotach	<self>
+PUNCT	)	sil
+PUNCT	,	sil
+PLAIN	grupach	<self>
+PLAIN	wojsk	<self>
+PUNCT	.	sil
+PLAIN	Przewodniczącym	<self>
+LETTERS	RW	r w
+PLAIN	był	<self>
+PLAIN	zawsze	<self>
+PLAIN	odpowiedni	<self>
+PLAIN	dowódca	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	W	<self>
+ORDINAL	1560.	tysiąc pięćset sześćdziesiątym
+PLAIN	r	<self>
+PUNCT	.	sil
+PLAIN	kościół	<self>
+PLAIN	święty	<self>
+PLAIN	Trójcy	<self>
+PLAIN	został	<self>
+PLAIN	zajęty	<self>
+PLAIN	przez	<self>
+PLAIN	arian	<self>
+PLAIN	z	<self>
+PLAIN	Ogrodzieńca	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Oficjalne	<self>
+PLAIN	przepisy	<self>
+PLAIN	gry	<self>
+PLAIN	w	<self>
+PLAIN	koszykówkę	<self>
+LETTERS	FIBA	f i b a
+DECIMAL	2012	dwa tysiące dwanaście
+PLAIN	przepis	<self>
+ORDINAL	8.	ósmy
+ORDINAL	5.	piąty
+<eos>	<eos>
+PLAIN	Przywódca	<self>
+LETTERS	ZSRR	z s r r
+PLAIN	miał	<self>
+PLAIN	również	<self>
+PLAIN	Mao	<self>
+PLAIN	za	<self>
+PLAIN	złe	<self>
+PUNCT	,	sil
+PLAIN	że	<self>
+PLAIN	samowolnie	<self>
+PLAIN	sprowokował	<self>
+PLAIN	w	<self>
+ORDINAL	1958.	tysiąc dziewięćset pięćdziesiątym ósmym
+PLAIN	roku	<self>
+PLAIN	zbrojny	<self>
+PLAIN	konflikt	<self>
+PLAIN	w	<self>
+PLAIN	Cieśninie	<self>
+PLAIN	Tajwańskiej	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Do	<self>
+PLAIN	najważniejszych	<self>
+PLAIN	zakładów	<self>
+PLAIN	pracy	<self>
+PLAIN	należą	<self>
+PUNCT	:	sil
+LETTERS	PKE	p k e
+LETTERS	SA	s a
+PLAIN	Elektrownia	<self>
+PLAIN	Łagisza	<self>
+PUNCT	—	sil
+PLAIN	wybudowana	<self>
+PLAIN	w	<self>
+PLAIN	latach	<self>
+CARDINAL	1960	tysiąc dziewięćset sześćdziesiąt
+PLAIN	-	do
+CARDINAL	1970	tysiąc dziewięćset siedemdziesiąt
+PUNCT	(	sil
+PLAIN	produkcja	<self>
+PLAIN	energii	<self>
+PLAIN	elektrycznej	<self>
+PUNCT	,	sil
+PLAIN	produkcja	<self>
+PLAIN	i	<self>
+PLAIN	przesył	<self>
+PLAIN	ciepła	<self>
+PUNCT	,	sil
+PLAIN	parowa	<self>
+PLAIN	o	<self>
+PLAIN	mocy	<self>
+MEASURE	840 MW	ośmiuset czterdziestu megawatów
+PUNCT	,	sil
+PLAIN	opalana	<self>
+PLAIN	węglem	<self>
+PLAIN	kamiennym	<self>
+PUNCT	)	sil
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Warszawa	<self>
+PUNCT	:	sil
+PLAIN	Wydawnictwo	<self>
+PLAIN	Ministerstwa	<self>
+PLAIN	Obrony	<self>
+PLAIN	Narodowej	<self>
+PUNCT	,	sil
+ORDINAL	1970.	tysiąc dziewięćset siedemdziesiąty
+<eos>	<eos>

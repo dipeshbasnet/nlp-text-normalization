@@ -1,0 +1,113 @@
+PLAIN	Brillantaisia	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	genus	<self>
+PLAIN	of	<self>
+PLAIN	plant	<self>
+PLAIN	in	<self>
+PLAIN	family	<self>
+PLAIN	Acanthaceae	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	2006	two thousand six
+LETTERS	IUCN	i u c n
+PLAIN	Red	<self>
+PLAIN	List	<self>
+PLAIN	of	<self>
+PLAIN	Threatened	<self>
+PLAIN	Species	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Circa	<self>
+PLAIN	Survive	<self>
+PLAIN	draw	<self>
+PLAIN	influences	<self>
+PLAIN	from	<self>
+PLAIN	soft	<self>
+PLAIN	rock	<self>
+PUNCT	,	sil
+PLAIN	post	<self>
+PLAIN	hardcore	<self>
+PUNCT	,	sil
+PLAIN	experimental	<self>
+PLAIN	rock	<self>
+PUNCT	,	sil
+PLAIN	emo	<self>
+PUNCT	,	sil
+PLAIN	progressive	<self>
+PLAIN	rock	<self>
+PUNCT	,	sil
+PLAIN	art	<self>
+PLAIN	rock	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	pop	<self>
+PLAIN	musicians	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Circa	<self>
+PLAIN	Survive	<self>
+PLAIN	opened	<self>
+PLAIN	for	<self>
+PLAIN	My	<self>
+PLAIN	Chemical	<self>
+PLAIN	Romance's	<self>
+DATE	2007	two thousand seven
+PLAIN	shows	<self>
+PLAIN	in	<self>
+PLAIN	Worcester	<self>
+PLAIN	and	<self>
+PLAIN	Australian	<self>
+PLAIN	and	<self>
+PLAIN	New	<self>
+PLAIN	Zealand	<self>
+PLAIN	shows	<self>
+PLAIN	as	<self>
+PLAIN	well	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	It	<self>
+PLAIN	has	<self>
+PLAIN	a	<self>
+PLAIN	greyish	<self>
+PLAIN	green	<self>
+PUNCT	,	sil
+PLAIN	densely	<self>
+PLAIN	hairy	<self>
+PLAIN	stem	<self>
+PLAIN	and	<self>
+PLAIN	alternate	<self>
+PUNCT	,	sil
+PLAIN	palmately	<self>
+PLAIN	lobed	<self>
+PLAIN	leaves	<self>
+PUNCT	.	sil
+<eos>	<eos>
+DATE	2008	two thousand eight
+PLAIN	Tour	<self>
+PLAIN	with	<self>
+PLAIN	Madina	<self>
+PLAIN	Lake	<self>
+PUNCT	,	sil
+PLAIN	Coheed	<self>
+PLAIN	and	<self>
+PLAIN	Cambria	<self>
+PLAIN	and	<self>
+PLAIN	Fightstar	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Greek	<self>
+PLAIN	National	<self>
+PLAIN	Road	<self>
+CARDINAL	91	ninety one
+PUNCT	(	sil
+PLAIN	Athens	<self>
+PUNCT	—	sil
+PLAIN	Sounio	<self>
+PUNCT	)	sil
+PLAIN	passes	<self>
+PLAIN	through	<self>
+PLAIN	the	<self>
+PLAIN	town	<self>
+PUNCT	.	sil
+<eos>	<eos>

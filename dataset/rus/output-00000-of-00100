@@ -1,0 +1,77 @@
+PLAIN	По	<self>
+PLAIN	состоянию	<self>
+PLAIN	на	<self>
+DATE	1862 год	тысяча восемьсот шестьдесят второй год
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Оснащались	<self>
+PLAIN	латными	<self>
+PLAIN	рукавицами	<self>
+PLAIN	и	<self>
+PLAIN	сабатонами	<self>
+PLAIN	с	<self>
+PLAIN	не	<self>
+PLAIN	длинными	<self>
+PLAIN	носками	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	В	<self>
+PLAIN	конце	<self>
+DATE	1811 года	тысяча восемьсот одиннадцатого года
+PUNCT	,	sil
+PLAIN	вследствие	<self>
+PLAIN	конфликта	<self>
+PLAIN	с	<self>
+PLAIN	проезжим	<self>
+PLAIN	вельможей	<self>
+PUNCT	(	sil
+PLAIN	графом	<self>
+PLAIN	Салтыковым	<self>
+PUNCT	)	sil
+PLAIN	вынужден	<self>
+PLAIN	был	<self>
+PLAIN	оставить	<self>
+PLAIN	службу	<self>
+PLAIN	по	<self>
+PLAIN	личному	<self>
+PLAIN	прошению	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Тиберий	<self>
+PLAIN	Юлий	<self>
+PLAIN	Поллиен	<self>
+PLAIN	Ауспекс	<self>
+PUNCT	(	sil
+PLAIN	лат	<self>
+PUNCT	.	sil
+PLAIN	Tiberius	т_trans и_trans б_trans е_trans р_trans и_trans у_trans с_trans
+PLAIN	Julius	д_trans ж_trans у_trans л_trans и_trans у_trans с_trans
+PLAIN	Pollienus	п_trans о_trans л_trans л_trans и_trans е_trans н_trans у_trans с_trans
+PLAIN	Auspex	о_trans с_trans п_trans е_trans к_trans с_trans
+PUNCT	)	sil
+PUNCT	—	sil
+PLAIN	римский	<self>
+PLAIN	политический	<self>
+PLAIN	деятель	<self>
+PLAIN	начала	<self>
+ORDINAL	III	третьего
+PLAIN	века	<self>
+PUNCT	.	sil
+<eos>	<eos>
+PLAIN	Севернее	<self>
+PLAIN	Дудинки	<self>
+PLAIN	и	<self>
+PLAIN	северо	<self>
+VERBATIM	-	sil
+PLAIN	восточнее	<self>
+PLAIN	Белочи	<self>
+PUNCT	,	sil
+PLAIN	в	<self>
+PLAIN	низменной	<self>
+PLAIN	долине	<self>
+PLAIN	Неруссы	<self>
+PUNCT	—	sil
+PLAIN	урочище	<self>
+PLAIN	Узлив	<self>
+PUNCT	.	sil
+<eos>	<eos>
